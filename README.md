@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vachhani Rahul</h1>
 <h3 align="center">A passionate Software Engineering from India</h3>
-<img align="right" atl="Coding" width="350" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
+<img align="right" atl="Coding" width="250" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vachhanirahul&label=Profile%20views&color=0e75b6&style=flat" alt="vachhanirahul" /> </p>
 
 - 🌱 I’m currently learning *Java, Nodejs*
