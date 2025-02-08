@@ -4,13 +4,13 @@
 <img align="right" atl="Coding" width="250" src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vachhanirahul&label=Profile%20views&color=0e75b6&style=flat" alt="vachhanirahul" /> </p>
 
-- 🌱 I’m currently learning *Java, Nodejs*
+- 🌱 I’m currently learning *Machine learing*
 
 - 👨‍💻 All of my projects are available at [https://github.com/VachhaniRahul](https://github.com/VachhaniRahul)
 
 - 📫 How to reach me *vachhanirahul54@gmail.com*
 
-- ⚡ Fun fact *Java is very easy language 😋*
+- ⚡ Fun fact *Python is very easy language 😋*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
